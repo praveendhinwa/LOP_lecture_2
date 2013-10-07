@@ -8,6 +8,8 @@ references given below.
 
 Enjoy Coding :)
 
+http://praveendhinwacoding.blogspot.in/2013/09/using-templates-in-c-programming.html
+
 http://en.wikipedia.org/wiki/Standard_Template_Library
 
 http://en.wikibooks.org/wiki/C%2B%2B_Programming/STL
