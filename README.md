@@ -9,11 +9,19 @@ references given below.
 Enjoy Coding :)
 
 http://en.wikipedia.org/wiki/Standard_Template_Library
+
 http://en.wikibooks.org/wiki/C%2B%2B_Programming/STL
+
 http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=standardTemplateLibrary
+
 http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=standardTemplateLibrary2
+
 http://community.topcoder.com/tc?module=Static&d1=features&d2=082803
+
 http://codeforces.com/blog/entry/6058
+
 http://www.acmsolver.org/?p=853
+
 http://www.acmsolver.org/?p=754
+
 http://www.acmsolver.org/?p=4534
